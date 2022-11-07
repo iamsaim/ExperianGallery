@@ -3,7 +3,7 @@
 This solution is developed using .NET 6. 
 Onion architecture is used to develop the system and the solution contains different layers which are following:
 
-####Starting from the inner most layer to the outer most
+#### Starting from the inner most layer to the outer most
 
 
 ### Experian.Gallery.Application
